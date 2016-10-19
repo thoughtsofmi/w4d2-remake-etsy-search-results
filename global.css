@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.picture {
+  height: 100px;
+}
+
+.etsy {
+  font-family: 'Abhaya Libre', serif;
+  color: #f46400;
+  font-size: 35px;
+}
+
+.searchbtn {
+  background-color: #34A8c4;
+  color: white;
+}
+
+.overflow-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+header > li {
+  color: gray;
+}
